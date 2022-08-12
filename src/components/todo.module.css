@@ -1,0 +1,29 @@
+
+/* .todos{
+    display: flex;
+    color: rgb(13, 10, 10);
+    border: 1px solid black;
+    margin:10px;
+
+} */
+
+.todoitem{
+   display: flex;
+   justify-content: center;
+   color: black;
+
+    /* border: 1px solid orange; */
+    
+    
+}
+
+.delete_button{
+    height: 25px;
+    margin-top: 16px;
+    margin-left:5px;
+}
+
+.striked{
+    text-decoration: line-through;
+}
+
